@@ -4,7 +4,6 @@ function Rodape () {
     return(
         <footer className={styles.rodape}>
             <h2>Desenvolvido por Adryan.</h2>
-
         </footer>
         
     )
