@@ -19,7 +19,7 @@ function Inicio() {
         <>
             <Banner imagem="home" />
             <Titulo>
-                <h1>Tudo sobre programação</h1>
+                <h1>Videos legais</h1>
             </Titulo>
             <section className={styles.container}>
                 {videos.map((video) => {
